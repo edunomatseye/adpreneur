@@ -1,0 +1,7 @@
+{
+"connectionString":"mongodb://localhost:27017/meanie",
+"secret":"ANYSTRING",
+"contactEmail":"teotechng@yahoo.com",
+"googleAnalyticsAccount":"UA-XXXXXXXX-X",
+"installed":true
+}
